@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\mathe\OneDrive\Documentos\matheus_estudo\cursos\curso_de_restAPI_Udemy\curso_udemy\RestWithSpringBootUdemy\.metadata\.plugins\org.eclipse.jdt.core
+2472146731.index
+3629831989.index
